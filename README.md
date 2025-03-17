@@ -1,4 +1,4 @@
-# HGLinkPred
+# CoupleMDA
 
 This repository implements the heterogeneous graph link prediction model proposed in "CoupleMDA: Metapath-Induced Structural-Semantic Coupling Network for miRNA-Disease Association Prediction" (Under Review). The model introduces a novel relation-aware hierarchical attention mechanism for heterogeneous information fusion.
 
