@@ -1,6 +1,6 @@
 # CoupleMDA
 
-This repository implements the heterogeneous graph link prediction model proposed in "CoupleMDA: Metapath-Induced Structural-Semantic Coupling Network for miRNA-Disease Association Prediction" (Under Review). The model introduces a novel relation-aware hierarchical attention mechanism for heterogeneous information fusion.
+This repository implements the heterogeneous graph link prediction model proposed in "CoupleMDA: Metapath-Induced Structural-Semantic Coupling Network for miRNA-Disease Association Prediction" (Under Review). CoupleMDA is a heterogeneous graph learning framework based on meta-path guided structure-semantic coupling, which effectively addresses data leakage and information bottleneck issues through decoupled data processing, two-stage encoding, and structure-enhanced decoding mechanisms, significantly improving the accuracy and biological interpretability of miRNA-disease association prediction.
 
 ![Model Architecture](model.jpg "模型结构图")
 
