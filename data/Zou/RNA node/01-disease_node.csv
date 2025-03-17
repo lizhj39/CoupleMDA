@@ -1,0 +1,1754 @@
+"leukemia, lymphocytic, chronic, b-cell",d0,1
+colon neoplasms,d1,1
+leukemia,d2,1
+lung neoplasms,d3,1
+colorectal carcinoma,d4,1
+"leukemia, promyelocytic, acute",d5,1
+neoplasms [unspecific],d6,1
+pituitary neoplasms,d7,1
+"carcinoma, hepatocellular",d8,1
+thyroid neoplasms,d9,1
+asthma,d10,1
+"lymphoma, b-cell",d11,1
+polycythemia vera,d12,1
+"leukemia, myeloid, acute",d13,1
+"leukemia, lymphoblastic",d14,1
+"lymphoma, hodgkin",d15,1
+nasopharyngeal neoplasms,d16,1
+ovarian neoplasms,d17,1
+retinal degeneration,d18,1
+"carcinoma, renal cell",d19,1
+myelodysplastic syndromes,d20,1
+neurodegenerative diseases [unspecific],d21,1
+lupus vulgaris,d22,1
+"leukemia, myeloid, chronic-phase",d23,1
+"leukemia-lymphoma, precursor b-cell lymphoblastic",d24,1
+schizophrenia,d25,1
+marek disease,d26,1
+autistic disorder,d27,1
+atherosclerosis,d28,1
+sepsis,d29,1
+choriocarcinoma,d30,1
+glomerulonephritis,d31,1
+"child development disorders, pervasive",d32,1
+melanoma,d33,1
+"diabetes mellitus, type 2",d34,1
+"lymphoma, large-cell, anaplastic",d35,1
+pancreatic neoplasms,d36,1
+heart failure,d37,1
+hemangioma,d38,1
+diabetes mellitus,d39,1
+human immunodeficiency virus infection,d40,1
+"leukemia-lymphoma, precursor t-cell lymphoblastic",d41,1
+glioblastoma,d42,1
+systemic lupus erythematosus,d43,1
+lymphoma,d44,1
+"leukemia-lymphoma, adult t-cell",d45,1
+"carcinoma, adrenocortical",d46,1
+mesothelioma,d47,1
+"leukemia, myeloid, chronic",d48,1
+"carcinoma, lung, non-small-cell",d49,1
+alzheimer disease,d50,1
+"squamous cell carcinoma, esophageal",d51,1
+hypertension,d52,1
+preeclampsia,d53,1
+urinary bladder cancer,d54,1
+eosinophilic esophagitis,d55,1
+ectopic pregnancy,d56,1
+graves disease,d57,1
+prostate neoplasms,d58,1
+myocardial infarction,d59,1
+multiple myeloma,d60,1
+hepatitis c virus infection,d61,1
+gastric neoplasms,d62,1
+endometriosis,d63,1
+primary biliary cirrhosis,d64,1
+myasthenia gravis,d65,1
+multiple sclerosis,d66,1
+polycystic kidney disease,d67,1
+parkinson disease,d68,1
+retinoblastoma,d69,1
+crohn disease,d70,1
+sjogren syndrome,d71,1
+bladder neoplasms,d72,1
+autism spectrum disorder,d73,1
+rheumatoid arthritis,d74,1
+"fatty liver, non-alcoholic",d75,1
+stroke,d76,1
+acute cerebral infarction,d77,1
+premature ovarian failure,d78,1
+arrhythmia,d79,1
+"carcinoma, esophageal",d80,1
+plasmodium vivax infection,d81,1
+acute myocardial infarction,d82,1
+coronary artery disease,d83,1
+spinal cord injuries,d84,1
+hypoxic-ischemic encephalopathy,d85,1
+"stroke, ischemic",d86,1
+obesity,d87,1
+glioma,d88,1
+cholangiocarcinoma,d89,1
+acute heart failure,d90,1
+spondylarthritis,d91,1
+polycystic ovarian syndrome,d92,1
+"leukemia, myeloid, acute, pediatric",d93,1
+chronic hepatitis b,d94,1
+aortic stenosis,d95,1
+"carcinoma, hepatocellular, hbv-related",d96,1
+allergic rhinitis,d97,1
+lung fibrosis,d98,1
+anxiety disorders,d99,1
+carotid artery diseases,d100,1
+spinal muscular atrophy,d101,1
+kideny transplant rejection,d102,1
+acute ischemic stroke,d103,1
+cardiovascular diseases [unspecific],d104,1
+aortic valve disease,d105,1
+vascular hypertrophy,d106,1
+"leukemia, lymphoblastic, acute, childhood",d107,1
+"leukemia, lymphoblastic, acute",d108,1
+pulmonary hypertension,d109,1
+frontotemporal dementia,d110,1
+"diabetes mellitus, gestational",d111,1
+spinal stenosis,d112,1
+familial mediterranean fever,d113,1
+traumatic brain injury,d114,1
+acute lung injury,d115,1
+lupus nephritis,d116,1
+kidney neoplasms,d117,1
+arthritis,d118,1
+diabetic nephropathy,d119,1
+anemia,d120,1
+ischemic diseases [unspecific],d121,1
+hyperactivity disorder,d122,1
+heart diseases [unspecific],d123,1
+metabolic syndrome,d124,1
+behcet disease,d125,1
+muscle atrophy,d126,1
+myeloproliferative neoplasms,d127,1
+head and neck neoplasms,d128,1
+pancreatic adenocarcinoma,d129,1
+"squamous cell carcinoma, oral",d130,1
+myocardial ischemic-reperfusion injury,d131,1
+"leukemia, acute",d132,1
+"adenocarcinoma, pancreatic ductal",d133,1
+"carcinoma, rectal",d134,1
+"scleroderma, localized",d135,1
+"scleroderma, systemic",d136,1
+"muscular dystrophy, duchenne",d137,1
+hepatitis b virus infection,d138,1
+acute cerebral ischemia,d139,1
+"leukemia, lymphoblastic, acute, t-cell",d140,1
+acute kidney failure,d141,1
+"tuberculosis, pulmonary",d142,1
+"squamous cell carcinoma, head and neck",d143,1
+gastrointestinal neoplasms,d144,1
+giant cell tumor of bone,d145,1
+liver cirrhosis,d146,1
+liver diseases [unspecific],d147,1
+interstitial lung disease,d148,1
+chronic kidney disease,d149,1
+esophageal neoplasms,d150,1
+"carcinoma, oral",d151,1
+endometrial neoplasms,d152,1
+"lymphoma, large b-cell, diffuse",d153,1
+testicular neoplasms,d154,1
+kidney diseases [unspecific],d155,1
+lung disease [unspecific],d156,1
+fragile x syndrome,d157,1
+early-stage cervical squamous cell carcinoma,d158,1
+chronic obstructive pulmonary disease,d159,1
+machado-joseph disease,d160,1
+"carcinoma, nasopharyngeal",d161,1
+graft-versus-host disease,d162,1
+liver injury,d163,1
+biliary tract neoplasms,d164,1
+peripheral vascular disease,d165,1
+"squamous cell carcinoma, lung",d166,1
+"carcinoma, renal cell, clear-cell",d167,1
+"adenocarcinoma, lung",d168,1
+"carcinoma, thyroid, papillary",d169,1
+hellp syndrome,d170,1
+adrenal cortex neoplasms,d171,1
+mild cognitive impairment,d172,1
+uveal melanoma,d173,1
+immune thrombocytopenic purpura,d174,1
+early-stage non-small-cell lung carcinoma,d175,1
+early-stage lung carcinoma,d176,1
+amyotrophic lateral sclerosis,d177,1
+non-neoplastic diseases,d178,1
+early-stage gastric carcinoma,d179,1
+chronic hepatitis c,d180,1
+"lymphoma, non-hodgkin",d181,1
+influenza,d182,1
+irritable bowel syndrome,d183,1
+"carcinoma, lung",d184,1
+psoriasis,d185,1
+"squamous cell carcinoma, laryngeal or hypopharyngeal",d186,1
+colorectal adenocarcinoma,d187,1
+muscle diseases [unspecific],d188,1
+osteosarcoma,d189,1
+germ cell tumor,d190,1
+myeloma,d191,1
+focal segmental glomerulosclerosis,d192,1
+proliferative diabetic retinopathy,d193,1
+macroglobulinemia,d194,1
+intrahepatic cholangiocarcinoma,d195,1
+oral neoplasms,d196,1
+"lymphoma, t-cell",d197,1
+prediabetes,d198,1
+"carcinoma, urothelial, upper tract",d199,1
+"carcinoma, cervical",d200,1
+unstable angina,d201,1
+"carcinoma, biliary tract",d202,1
+allergic asthma,d203,1
+male infertility,d204,1
+acute coronary syndrome,d205,1
+tuberculosis,d206,1
+epilepsy,d207,1
+"cardiomyopathy, dilated",d208,1
+"carcinoma, gallbladder",d209,1
+huntington disease,d210,1
+"carcinoma, colon",d211,1
+brain disease [unspecific],d212,1
+rectal neoplasms,d213,1
+vasculitis,d214,1
+osteoporosis,d215,1
+mycobacterium tuberculosis infection,d216,1
+liver neoplasms,d217,1
+"cardiomyopathy, hypertrophic",d218,1
+coronary atherosclerosis,d219,1
+intestinal schistosomiasis,d220,1
+synovial sarcoma,d221,1
+nephrotic syndrome,d222,1
+"carcinoma, hepatocellular, hcv-related",d223,1
+bronchopulmonary dysplasia,d224,1
+essential hypertension,d225,1
+angiosarcoma,d226,1
+rheumatic heart diseases,d227,1
+"colitis, ulcerative",d228,1
+digestive system neoplasms,d229,1
+major depressive disorder,d230,1
+inherited hemoglobin disease,d231,1
+myotonic dystrophy type 1,d232,1
+hirschsprung disease,d233,1
+autoimmune lymphoproliferative syndrome,d234,1
+"carcinoma, ovarian",d235,1
+glaucoma,d236,1
+idiopathic asthenospermia,d237,1
+"carcinoma, pancreatic",d238,1
+"carcinoma, thyroid, follicular",d239,1
+muscular dystrophy,d240,1
+hepatoblastoma,d241,1
+"carcinoma, gastric",d242,1
+aplastic anemia,d243,1
+age-related macular degeneration,d244,1
+ischemia-reperfusion injury,d245,1
+hematologic neoplasms,d246,1
+mesial temporal lobe epilepsy,d247,1
+atrial fibrillation,d248,1
+arteriosclerosis obliterans,d249,1
+cardiomyopathy,d250,1
+"lymphoma, burkitt",d251,1
+"carcinoma, ovarian, serous",d252,1
+lofgren syndrome,d253,1
+kidney injury,d254,1
+"carcinoma, lung, small-cell",d255,1
+"neuralgia, postherpetic",d256,1
+"carcinoma, bladder",d257,1
+foot-and-mouth disease,d258,1
+"aortic aneurysm, abdominal",d259,1
+cutaneous melanoma,d260,1
+hyperhomocysteinemia,d261,1
+osteoarthritis,d262,1
+ischemic heart disease,d263,1
+hyperlipoproteinemia type iii,d264,1
+acute respiratory distress syndrome,d265,1
+peripheral nervous system diseases,d266,1
+celiac disease,d267,1
+cervical neoplasms,d268,1
+"diabetes mellitus, type 1",d269,1
+diabetic cardiomyopathies,d270,1
+transitional cell carcinoma,d271,1
+crohn colitis,d272,1
+bicuspid aortic valve disease,d273,1
+friedreich ataxia,d274,1
+periodontitis,d275,1
+dementia,d276,1
+chagas disease,d277,1
+dengue virus infection,d278,1
+azoospermia,d279,1
+inflammatory bowel diseases,d280,1
+liposarcoma,d281,1
+respiratory syncytial virus pneumonia,d282,1
+cerebral malaria,d283,1
+proliferative glomerulonephritis,d284,1
+diabetic retinopathy,d285,1
+uterine cancer,d286,1
+congenital heart diseases,d287,1
+primary sclerosing cholangitis,d288,1
+pulmonary sarcoidosis,d289,1
+recurrent spontaneous abortion,d290,1
+cystic fibrosis,d291,1
+hepatic veno-occlusive disease,d292,1
+frailty,d293,1
+viral infectious disease,d294,1
+hepatitis [unspecific],d295,1
+kawasaki syndrome,d296,1
+"adenocarcinoma, esophageal",d297,1
+testicular germ cell tumor,d298,1
+vascular myelopathy,d299,1
+aneurysmal subarachnoid hemorrhage,d300,1
+"leukemia, b-cell",d301,1
+brain neoplasms,d302,1
+focal epithelial hyperplasia,d303,1
+eczema herpeticum,d304,1
+"carcinoma, embryonal",d305,1
+cerebellum cancer,d306,1
+"leukemia, myeloid",d307,1
+tongue neoplasms,d308,1
+prion diseases,d309,1
+rhabdomyosarcoma,d310,1
+viral myocarditis,d311,1
+hypertrophy,d312,1
+medulloblastoma,d313,1
+"fatty liver, alcoholic",d314,1
+pulmonary embolism,d315,1
+cerebral ischemia,d316,1
+hyperlipidemia,d317,1
+inflammation,d318,1
+fatty liver [unspecific],d319,1
+idiopathic short stature,d320,1
+ankylosing spondylitis,d321,1
+"systemic lupus erythematosus, with pericarditis",d322,1
+pancreatic endocrine carcinoma,d323,1
+moyamoya disease,d324,1
+oral lichen planus,d325,1
+cardiac allograft vasculopathy,d326,1
+hypercholesterolaemia,d327,1
+autoimmune diseases [unspecific],d328,1
+chronic fatigue syndrome,d329,1
+depression disorder,d330,1
+down syndrome,d331,1
+acute pancreatitis,d332,1
+hearing loss,d333,1
+cholesteatoma,d334,1
+neurilemmoma,d335,1
+vascular disease [unspecific],d336,1
+migraine,d337,1
+"carcinoma, thyroid",d338,1
+chronic brucellosis,d339,1
+peripheral nerve injury,d340,1
+glycogen storage disease ii,d341,1
+atopic dermatitis,d342,1
+amyloidosis,d343,1
+human papilloma virus infection,d344,1
+chronic hepatitis,d345,1
+ischemia,d346,1
+idiopathic pulmonary fibrosis,d347,1
+central nervous system embryonal tumor,d348,1
+pelvic inflammatory disease,d349,1
+graves ophthalmopathy,d350,1
+intermittent claudication,d351,1
+pleural mesothelioma,d352,1
+toxic epidermal necrolysis,d353,1
+malignant neoplasms [unspecific],d354,1
+autoimmune hepatitis,d355,1
+acquired immunodeficiency syndrome,d356,1
+ependymoma,d357,1
+heart transplant rejection,d358,1
+"carcinoma, periampullary",d359,1
+"carcinoma, urothelial",d360,1
+encephalitis,d361,1
+waldenstrom macroglobulinemia,d362,1
+myotonic muscular dystrophy,d363,1
+"lymphoma, large b-cell",d364,1
+rectum adenocarcinoma,d365,1
+diabetic foot,d366,1
+b-cell childhood acute lymphoblastic leukemia,d367,1
+stevens-johnson syndrome,d368,1
+plasmodium falciparum malaria,d369,1
+cardiomegaly,d370,1
+sarcoma [unspecific],d371,1
+neuroblastoma,d372,1
+early-stage lung adenocarcinoma,d373,1
+liver fibrosis,d374,1
+ewing sarcoma,d375,1
+squamous cell carcinoma,d376,1
+"adenocarcinoma, colon",d377,1
+chondrosarcoma,d378,1
+helicobacter pylori infection,d379,1
+wilms tumor,d380,1
+soft tissue sarcoma,d381,1
+colon adenoma,d382,1
+skin neoplasms,d383,1
+sarcomatoid mesothelioma,d384,1
+nervous system diseases [unspecific],d385,1
+sensorineural hearing loss,d386,1
+"leukemia, biphenotypic, acute",d387,1
+"squamous cell carcinoma, cerevial",d388,1
+myopia,d389,1
+gout,d390,1
+habitual abortion,d391,1
+dyspepsia,d392,1
+intracranial aneurysm,d393,1
+psychiatric disorders,d394,1
+cataract,d395,1
+hyperglycemia,d396,1
+non-syndromic orofacial clefts,d397,1
+alcohol use disorder,d398,1
+uveitis,d399,1
+dermatomyositis,d400,1
+iga nephropathy,d401,1
+autoimmune thyroiditis,d402,1
+coronary restenosis,d403,1
+leprosy,d404,1
+generalized epilepsy with febrile seizures plus,d405,1
+li-fraumeni syndrome,d406,1
+"adenocarcinoma, gastric",d407,1
+cardiometabolic disorders,d408,1
+carotid atherosclerosis,d409,1
+tooth agenesis,d410,1
+"lymphoma, follicular",d411,1
+pemphigus,d412,1
+ossification of posterior longitudinal ligament,d413,1
+kaposi sarcoma,d414,1
+macular degeneration,d415,1
+neuroinflammation,d416,1
+creutzfeldt-jakob disease,d417,1
+lymphedema,d418,1
+psoriatic arthritis,d419,1
+infertility,d420,1
+charcot-marie-tooth disease type 1a,d421,1
+"lymphoma, mantle-cell",d422,1
+progressive supranuclear palsy,d423,1
+musculoskeletal abnormalities [unspecific],d424,1
+idiopathic pulmonary hypertension,d425,1
+primary immunodeficiency disease,d426,1
+renal fibrosis,d427,1
+pterygium,d428,1
+hypogonadotropic hypogonadism,d429,1
+tourette syndrome,d430,1
+"carcinoma, thyroid, medullary",d431,1
+immune system disease [unspecific],d432,1
+encephalomyelitis,d433,1
+intervertebral disc degeneration,d434,1
+"squamous cell carcinoma, tongue",d435,1
+vascular injuries,d436,1
+infection [unspecific],d437,1
+listeriosis,d438,1
+colitis,d439,1
+alcoholic hepatitis,d440,1
+leiomyosarcoma,d441,1
+rhinosinusitis,d442,1
+acute erythroid leukemia,d443,1
+gastrointestinal stromal tumor,d444,1
+"carcinoma, laryngeal",d445,1
+juvenile rheumatoid arthritis,d446,1
+"cytotoxicity tests, immunologic",d447,1
+"neovascularization, pathologic",d448,1
+hypertrophic scar,d449,1
+wound healing,d450,1
+uterine leiomyoma,d451,1
+liver failure,d452,1
+pituitary adenoma,d453,1
+neuropathic pain,d454,1
+congenital diaphragmatic hernia,d455,1
+retinal neovascularization,d456,1
+adenovirus infection,d457,1
+astrocytoma,d458,1
+laryngeal neoplasms,d459,1
+"carcinoma, skin",d460,1
+"lymphoma, t-cell, cutaneous",d461,1
+"carcinoma, endometrial",d462,1
+hypoxia,d463,1
+endomyocardial fibrosis,d464,1
+chronic pain,d465,1
+lacrimal adenoid cystic carcinoma,d466,1
+invasive bladder transitional cell carcinoma,d467,1
+granular corneal dystrophy,d468,1
+allergy,d469,1
+"cardiomyopathy, ischemic",d470,1
+germ cell and embryonal neoplasms,d471,1
+lipid metabolism disorder,d472,1
+barrett esophagus,d473,1
+neutropenia,d474,1
+pain,d475,1
+meningioma,d476,1
+intracerebral hemorrhage,d477,1
+alopecia,d478,1
+severe acute respiratory syndrome virus infection,d479,1
+chlamydial infection ,d480,1
+toxoplasma gondii infection,d481,1
+acute megakaryoblastic leukemia,d482,1
+granulosa cell tumor,d483,1
+cocaine abuse,d484,1
+distal myopathy,d485,1
+"carcinoma, basal cell",d486,1
+childhood leukemia,d487,1
+panic disorder,d488,1
+periodontal diseases,d489,1
+congenital deafness,d490,1
+wounds and injuries [unspecific],d491,1
+antiphospholipid syndrome,d492,1
+"squamous cell carcinoma, maxillary sinus",d493,1
+atrophic gastritis,d494,1
+hailey-hailey disease,d495,1
+"carcinoma, endometrioid endometrial",d496,1
+anus neoplasm,d497,1
+"adenocarcinoma, endometrial",d498,1
+"hand, foot and mouth disease",d499,1
+biliary atresia,d500,1
+fanconi anemia,d501,1
+sezary disease,d502,1
+keloid,d503,1
+thrombocytosis,d504,1
+cardiac fibrosis,d505,1
+oral leukoplakia,d506,1
+lepromatous leprosy,d507,1
+psychotic disorders,d508,1
+feingold syndrome,d509,1
+hepatitis e virus infection,d510,1
+pancreatic serous cystic neoplasm,d511,1
+pheochromocytoma,d512,1
+chronic inflammation,d513,1
+salivary gland neoplasms,d514,1
+lesch-nyhan syndrome,d515,1
+coxsackievirus infection,d516,1
+salmonellosis,d517,1
+microvascular disease,d518,1
+chordoma,d519,1
+vulvar squamous cell carcinoma,d520,1
+pediatric glioma,d521,1
+hantavirus infection,d522,1
+leishmaniasis,d523,1
+chikungunya virus infection,d524,1
+fetal alcohol spectrum disorder,d525,1
+systemic mastocytosis,d526,1
+"squamous cell carcinoma, skin or unspecific",d527,1
+wound inflammation,d528,1
+diabetic vasculopathy,d529,1
+pediatric osteosarcoma,d530,1
+childhood obesity,d531,1
+meningitis,d532,1
+skin disease [unspecific],d533,1
+"carcinoma, tounge",d534,1
+enterovirus infection,d535,1
+early-stage small-cell lung carcinoma,d536,1
+selective ige deficiency disease,d537,1
+long qt syndrome,d538,1
+cervix endometrial stromal tumor,d539,1
+tetralogy of fallot,d540,1
+chronic heart failure,d541,1
+breast malignant phyllodes tumor,d542,1
+keratitis,d543,1
+posterior capsule opacification,d544,1
+aortic aneurysm,d545,1
+ebola hemorrhagic fever,d546,1
+"carcinoma, ovarian, clear cell",d547,1
+tibial meniscus injuries,d548,1
+"carcinoma, neuroendocrine",d549,1
+"leukemia, t-cell",d550,1
+atypical teratoid tumor,d551,1
+gallstones,d552,1
+uterine corpus choriocarcinoma,d553,1
+endometrial stromal sarcoma,d554,1
+androgenetic alopecia,d555,1
+cholestasis,d556,1
+"adenocarcinoma, cervical",d557,1
+bipolar disorder,d558,1
+thrombosis,d559,1
+japanese encephalitis virus infection,d560,1
+thyroid adenomas,d561,1
+ovary mixed epithelial carcinoma,d562,1
+pregnancy complications [unspecific],d563,1
+cervicitis,d564,1
+mandibular prognathism,d565,1
+narcolepsy,d566,1
+neuroendocrine tumors,d567,1
+coloboma,d568,1
+chromosome 5q deletion syndrome,d569,1
+toxic encephalopathy,d570,1
+intellectual disability,d571,1
+"leukemia, myelogenous, chronic, bcr-abl positive",d572,1
+costello syndrome,d573,1
+colorectal adenoma,d574,1
+non-sensory diseases,d575,1
+early-stage colon carcinoma,d576,1
+hemophilia a,d577,1
+growth disorders,d578,1
+digeorge syndrome,d579,1
+aortic insufficiency,d580,1
+hypogonadism,d581,1
+emphysema,d582,1
+peritoneal dialysis failure,d583,1
+disease of metabolism,d584,1
+perlman syndrome,d585,1
+bladder outlet obstruction,d586,1
+aneurysm,d587,1
+bronchiolitis obliterans syndrome,d588,1
+"carcinoma, merkel cell",d589,1
+"carcinoma, gastrooesophageal",d590,1
+neurofibromatosis type 2,d591,1
+ovarian disease,d592,1
+pneumonia,d593,1
+recurrent wheezing,d594,1
+bone disease [unspecific],d595,1
+blindness,d596,1
+atrioventricular septal defect,d597,1
+preterm labor,d598,1
+chromosome 15q13.3 microdeletion syndrome,d599,1
+holt-oram syndrome,d600,1
+osteogenesis imperfecta,d601,1
+"carcinoma, thyroid, anaplastic",d602,1
+"leukemia, lymphoblastic, acute, b-cell",d603,1
+gastric cardia adenocarcinoma,d604,1
+acute brucellosis,d605,1
+white spot syndrome virus infection,d606,1
+cardiac myocyte injury,d607,1
+myelofibrosis,d608,1
+cerebral aneurysm,d609,1
+"osteoporosis, postmenopausal",d610,1
+mitochondrial metabolism disease,d611,1
+"carcinoma, gingival",d612,1
+human cytomegalovirus infection,d613,1
+nasal cavity inverting papilloma,d614,1
+blood coagulation disorders,d615,1
+early-stage colon adenocarcinoma,d616,1
+neuronal apoptosis-related diseases,d617,1
+retinal vascular disease,d618,1
+heart valve disease,d619,1
+lung injury [unspecific],d620,1
+dental enamel hypoplasia,d621,1
+hypohidrotic ectodermal dysplasia,d622,1
+status epilepticus,d623,1
+salivary gland disease,d624,1
+cone dystrophy,d625,1
+allergic contact dermatitis,d626,1
+cornea squamous cell carcinoma,d627,1
+sciatic nerve injury,d628,1
+alveolar rhabdomyosarcoma,d629,1
+pediatric ependymoma,d630,1
+diabetic encephalopathy,d631,1
+diabetic polyneuropathy,d632,1
+respiratory system disease,d633,1
+infectious bursal disease virus,d634,1
+monocytic leukemia,d635,1
+"carcinoma, pancreatic ductal",d636,1
+arteriovenous malformations of the brain,d637,1
+becker muscular dystrophy,d638,1
+"muscular dystrophy, facioscapulohumeral",d639,1
+bronchopneumonia,d640,1
+rheumatic myocarditis,d641,1
+diabetic peripheral neuropathy,d642,1
+"carcinoma, oropharyngeal",d643,1
+fabry disease,d644,1
+porcine reproductive and respiratory syndrome virus infection,d645,1
+"carcinoma, salivary adenoid cystic",d646,1
+lichen planus,d647,1
+cutaneous lupus erythematosus,d648,1
+johne disease,d649,1
+small intestine carcinoma,d650,1
+neuropsychiatric disorders [unspecific],d651,1
+embryonal testis carcinoma,d652,1
+non-traumatic osteonecrosis,d653,1
+uterine corpus endometrial carcinoma,d654,1
+leiomyoma,d655,1
+patau syndrome,d656,1
+fibrosarcoma,d657,1
+hemangiosarcoma,d658,1
+myositis ossificans,d659,1
+demyelinating diseases,d660,1
+cryptosporidium infection,d661,1
+odontogenic tumors,d662,1
+oligodendroglioma,d663,1
+pancreatic diseases,d664,1
+"lymphoma, extranodal nk-t-cell",d665,1
+osteopetrosis,d666,1
+malignant peripheral nerve sheath tumor,d667,1
+rhabdoid cancer,d668,1
+epithelioid sarcoma,d669,1
+melasma,d670,1
+glioblastoma mesenchymal subtype,d671,1
+fungal keratitis,d672,1
+inner ear inflammation,d673,1
+varicocele,d674,1
+anxiety,d675,1
+hepatic ischemia-reperfusion injury,d676,1
+fever,d677,1
+"adenocarcinoma, gastric-esophageal junction",d678,1
+nephrolithiasis,d679,1
+thrombocytopenia,d680,1
+asthenozoospermia,d681,1
+"chromosome 22q11.2 deletion syndrome, distal",d682,1
+borjeson-forssman-lehmann syndrome,d683,1
+somatotropinoma,d684,1
+lynch syndrome,d685,1
+congenital myasthenic syndrome,d686,1
+cardiac myxoma,d687,1
+follicular atresia,d688,1
+hemoglobin diseases,d689,1
+osteomyelitis,d690,1
+epstein-barr virus infection,d691,1
+congenital microtia,d692,1
+post-traumatic stress disorder,d693,1
+iron metabolism disease,d694,1
+liver transplant rejection,d695,1
+"carcinoma, gastric, signet ring cell",d696,1
+complex regional pain syndrome,d697,1
+sickle cell anemia,d698,1
+oral submucous fibrosis,d699,1
+essential thrombocythemia,d700,1
+myxoid liposarcoma,d701,1
+anaplastic astrocytoma,d702,1
+knee osteoarthritis,d703,1
+chronic inflammatory pain,d704,1
+diabetic cataract,d705,1
+obstructive sleep apnea,d706,1
+thyroid-associated ophthalmopathy,d707,1
+ileus,d708,1
+cardio-renal syndrome,d709,1
+bone cancer,d710,1
+hepatocellular carcinoma,d711,1
+spinal chordoma,d712,1
+cartilage disease [unspecific],d713,1
+kidney osteogenic sarcoma,d714,1
+cleidocranial dysplasia,d715,1
+autosomal dominant polycystic kidney disease,d716,1
+pineal gland cancer,d717,1
+legg-calve-perthes disease,d718,1
+evans syndrome,d719,1
+cerebrovascular disease,d720,1
+interstitial cystitis,d721,1
+angiomyolipoma,d722,1
+sickle cell disease,d723,1
+"meningitis, pneumococcal",d724,1
+cor pulmonale,d725,1
+coronavirus infections,d726,1
+lymphocytic choriomeningitis,d727,1
+dengue shock syndrome,d728,1
+malt lymphoma,d729,1
+congenital hypothyroidism,d730,1
+arterial calcification of infancy,d731,1
+ocular motility disease,d732,1
+idiopathic scoliosis,d733,1
+"carcinoma, head and neck",d734,1
+hemophilus influenzae infection,d735,1
+hidradenitis suppurativa,d736,1
+visceral leishmaniasis,d737,1
+chronic cerebral hypoperfusion,d738,1
+peri-implantitis,d739,1
+aniridia,d740,1
+venous thromboembolism,d741,1
+diarrhea,d742,1
+rapidly progressive glomerulonephritis,d743,1
+arteriovenous malformation,d744,1
+enteropathy,d745,1
+mast cell neoplasm,d746,1
+mucosulfatidosis,d747,1
+pelvic organ prolapse,d748,1
+primary aldosteronism,d749,1
+light-induced retinal injury,d750,1
+hemoglobinopathy,d751,1
+burns,d752,1
+hemophagocytic lymphohistiocytosis,d753,1
+uremic neuropathy,d754,1
+"carcinoma, vulvar",d755,1
+hyperuricemia,d756,1
+skin injury,d757,1
+peritoneal fibrosis,d758,1
+uterine leiomyosarcoma,d759,1
+corneal neovascularization,d760,1
+uterine carcinosarcoma,d761,1
+intraductal papillary mucinous neoplasms,d762,1
+short bowel syndrome,d763,1
+intestinal barrier dysfunction,d764,1
+seizures,d765,1
+gliosis,d766,1
+pten hamartoma tumor tyndrome,d767,1
+melas syndrome,d768,1
+retinitis pigmentosa,d769,1
+"lymphoma, primary effusion",d770,1
+endotoxemia,d771,1
+neuroma,d772,1
+learned helplessness,d773,1
+mycosis fungoides,d774,1
+"aortic aneurysm, thoracic",d775,1
+"allergic rhinitis,perennial",d776,1
+prolactinoma,d777,1
+"squamous cell carcinoma, sinonasal",d778,1
+hereditary hemorrhagic telangiectasia,d779,1
+cytomegalovirus retinitis,d780,1
+myositis,d781,1
+fibromyalgia,d782,1
+cardiotoxicity,d783,1
+vitiligo,d784,1
+cerebral cavernous malformations,d785,1
+"carcinoma, adenoid cystic",d786,1
+endocrine gland neoplasms,d787,1
+"fibromatosis, aggressive",d788,1
+vasomotor rhinitis,d789,1
+alcoholic cardiomyopathy,d790,1
+ovarian germ cell cancer,d791,1
+nut midline carcinoma,d792,1
+urinary system cancer,d793,1
+carcinosarcoma,d794,1
+nevus,d795,1
+frontotemporal lobar degeneration,d796,1
+"shock, septic",d797,1
+thyroid lymphoma,d798,1
+mycobacterium avium complex disease,d799,1
+"stroke, hemorrhagic",d800,1
+"carcinoma, supraglottic",d801,1
+uterine corpus serous adenocarcinoma,d802,1
+varicella,d803,1
+acute liver failure,d804,1
+pallister-killian syndrome,d805,1
+multiple system atrophy,d806,1
+lymphoproliferative disorders,d807,1
+"small cell carcinoma, esophageal",d808,1
+head and neck adenoid cystic carcinoma,d809,1
+medulloepithelioma,d810,1
+chronic pancreatitis,d811,1
+"carcinoma, renal cell, chromophobe",d812,1
+necrotizing enterocolitis,d813,1
+uterine corpus myxoid leiomyosarcoma,d814,1
+neuroepithelial tumors,d815,1
+vogt-koyanagi-harada disease,d816,1
+silicosis,d817,1
+balkan nephropathy,d818,1
+borna disease,d819,1
+polyangiitis,d820,1
+reproductive system disease,d821,1
+guillain-barre syndrome,d822,1
+porphyromonas gingivalis,d823,1
+lyme disease,d824,1
+"adenocarcinoma, sebaceous",d825,1
+penis carcinoma,d826,1
+gestational trophoblastic disease,d827,1
+thymoma,d828,1
+sertoli cell-only syndrome,d829,1
+mastitis,d830,1
+skin hemangioma,d831,1
+african swine fever,d832,1
+"carcinoma, mucoepidermoid",d833,1
+vulvar squamous tumor,d834,1
+mitral valve disease,d835,1
+acute peritonitis,d836,1
+peritoneal neoplasms,d837,1
+parathyroid carcinoma,d838,1
+hearing disorders,d839,1
+ganglioglioma,d840,1
+renal oncocytoma,d841,1
+smoke inhalation injury,d842,1
+prader-willi syndrome,d843,1
+x-linked alport syndrome,d844,1
+eclampsia,d845,1
+nephrosclerosis,d846,1
+"niemann-pick disease, type c",d847,1
+"carcinoma, ehrlich tumor",d848,1
+gerstmann-straussler-scheinker syndrome,d849,1
+multiple endocrine neoplasia type 1,d850,1
+"liver diseases, alcoholic",d851,1
+seminoma,d852,1
+esophagitis,d853,1
+pancreatic intraductal papillary mucinous neoplasms,d854,1
+hiv-associated lipodystrophy,d855,1
+osteonecrosis,d856,1
+gastroduodenal ulcer,d857,1
+sebaceous carcinoma,d858,1
+gaucher disease,d859,1
+chronic alcohol-induced alveolar macrophage dysfunction,d860,1
+"shock, hemorrhagic",d861,1
+proliferative vitreoretinal disease,d862,1
+otitis media,d863,1
+chorioamnionitis,d864,1
+adenosquamous pancreas carcinoma,d865,1
+non specific chronic endometritis,d866,1
+"adenocarcinoma, ampullary",d867,1
+"carcinoma, non-small-cell lung",d868,1
+"lupus erythematosus, systemic",d869,1
+acne vulgaris,d870,1
+urinary bladder neoplasms,d871,1
+colorectal neoplasms,d872,1
+stomach neoplasms,d873,1
+"arthritis, rheumatoid",d874,1
+cardiovascular diseases,d875,1
+prostatic neoplasms,d876,1
+uterine cervical neoplasms,d877,1
+leukoaraiosis,d878,1
+pre-eclampsia,d879,1
+myocardial ischemia,d880,1
+drug hypersensitivity,d881,1
+neural tube defects,d882,1
+chemical and drug induced liver injury,d883,1
+hypercholesterolemia,d884,1
+hyperlipoproteinemia type ii,d885,1
+hypoalphalipoproteinemias,d886,1
+burkitt lymphoma,d887,1
+"heart defects, congenital",d888,1
+precancerous conditions,d889,1
+carcinogenesis,d890,1
+"mammary neoplasms, animal",d891,1
+alcoholism,d892,1
+duodenal ulcer,d893,1
+cerebral infarction,d894,1
+nervous system diseases,d895,1
+dystonia,d896,1
+severe combined immunodeficiency,d897,1
+dermatitis,d898,1
+hepatitis,d899,1
+hyperlipidemias,d900,1
+cardiomyopathies,d901,1
+fibrosis,d902,1
+diabetic angiopathies,d903,1
+craniosynostoses,d904,1
+alagille syndrome,d905,1
+"glomerulonephritis, iga",d906,1
+diabetic nephropathies,d907,1
+heart diseases,d908,1
+pulmonary fibrosis,d909,1
+renal insufficiency,d910,1
+"hypertrophy, left ventricular",d911,1
+cardiovascular abnormalities,d912,1
+neoplasm metastasis,d913,1
+neoplasms,d914,1
+"infertility, male",d915,1
+"carcinoma, squamous cell",d916,1
+"hamartoma syndrome, multiple",d917,1
+marijuana abuse,d918,1
+proteus syndrome,d919,1
+brain diseases,d920,1
+"glomerulonephritis, membranous",d921,1
+acute kidney injury,d922,1
+nephrosis,d923,1
+"liver failure, acute",d924,1
+alcoholic intoxication,d925,1
+alcohol-related disorders,d926,1
+korsakoff syndrome,d927,1
+"plasma cell granuloma, pulmonary",d928,1
+adenoma,d929,1
+colonic neoplasms,d930,1
+colonic polyps,d931,1
+urticaria,d932,1
+lymphatic metastasis,d933,1
+gardner syndrome,d934,1
+"fibromatosis, abdominal",d935,1
+adenomatous polyps,d936,1
+intestinal neoplasms,d937,1
+adenocarcinoma,d938,1
+hiv infections,d939,1
+fatty liver,d940,1
+hypertriglyceridemia,d941,1
+dyslipidemias,d942,1
+"hypobetalipoproteinemia, familial, apolipoprotein b",d943,1
+carotid stenosis,d944,1
+hepatolenticular degeneration,d945,1
+amnesia,d946,1
+memory disorders,d947,1
+cerebral amyloid angiopathy,d948,1
+urolithiasis,d949,1
+behcet syndrome,d950,1
+uveomeningoencephalitic syndrome,d951,1
+non-alcoholic fatty liver disease,d952,1
+disorders of sex development,d953,1
+prostatic intraepithelial neoplasia,d954,1
+"muscular atrophy, spinal",d955,1
+"lymphoma, t-cell, peripheral",d956,1
+"colorectal neoplasms, hereditary nonpolyposis",d957,1
+"leukemia, prolymphocytic, t-cell",d958,1
+cryptorchidism,d959,1
+"mental retardation, x-linked",d960,1
+dehydration,d961,1
+diabetes insipidus,d962,1
+polyuria,d963,1
+cocaine-related disorders,d964,1
+"diabetes insipidus, neurogenic",d965,1
+autoimmune diseases,d966,1
+kidney diseases,d967,1
+polycystic ovary syndrome,d968,1
+precursor t-cell lymphoblastic leukemia-lymphoma,d969,1
+von hippel-lindau disease,d970,1
+hyperparathyroidism,d971,1
+papilloma,d972,1
+carcinoma,d973,1
+fetal alcohol spectrum disorders,d974,1
+"adenocarcinoma, clear cell",d975,1
+liver diseases,d976,1
+brain ischemia,d977,1
+heroin dependence,d978,1
+"obesity, morbid",d979,1
+wagr syndrome,d980,1
+peripheral arterial disease,d981,1
+polydactyly,d982,1
+craniopharyngioma,d983,1
+neurofibromatosis 1,d984,1
+noonan syndrome,d985,1
+leopard syndrome,d986,1
+adrenocortical carcinoma,d987,1
+gastrointestinal stromal tumors,d988,1
+erdheim-chester disease,d989,1
+atypical hemolytic uremic syndrome,d990,1
+hyperalgesia,d991,1
+hypercalcemia,d992,1
+"psychoses, substance-induced",d993,1
+"hepatitis, chronic",d994,1
+precursor cell lymphoblastic leukemia-lymphoma,d995,1
+hypocalcemia,d996,1
+hypoparathyroidism,d997,1
+diabetic neuropathies,d998,1
+"liver cirrhosis, alcoholic",d999,1
+acatalasia,d1000,1
+"lipodystrophy, familial partial",d1001,1
+"glaucoma, open-angle",d1002,1
+familial primary pulmonary hypertension,d1003,1
+uremia,d1004,1
+craniofacial abnormalities,d1005,1
+precursor b-cell lymphoblastic leukemia-lymphoma,d1006,1
+platelet storage pool deficiency,d1007,1
+"leukemia, myelomonocytic, juvenile",d1008,1
+"spondylitis, ankylosing",d1009,1
+"arthritis, juvenile",d1010,1
+agammaglobulinemia,d1011,1
+common variable immunodeficiency,d1012,1
+sezary syndrome,d1013,1
+mucocutaneous lymph node syndrome,d1014,1
+adenomatous polyposis coli,d1015,1
+"kidney failure, chronic",d1016,1
+"carcinoma, lobular",d1017,1
+hodgkin disease,d1018,1
+"carcinoma, transitional cell",d1019,1
+parathyroid neoplasms,d1020,1
+beckwith-wiedemann syndrome,d1021,1
+vulvar lichen sclerosus,d1022,1
+mouth neoplasms,d1023,1
+trisomy,d1024,1
+dysplastic nevus syndrome,d1025,1
+sinusitis,d1026,1
+"pancreatitis, chronic",d1027,1
+anhedonia,d1028,1
+"liver cirrhosis, biliary",d1029,1
+"jaundice, chronic idiopathic",d1030,1
+substance-related disorders,d1031,1
+ehlers-danlos syndrome,d1032,1
+"hyperostosis, cortical, congenital",d1033,1
+cartilage diseases,d1034,1
+cleft palate,d1035,1
+osteochondrodysplasias,d1036,1
+retinal detachment,d1037,1
+temporomandibular joint disorders,d1038,1
+22q11 deletion syndrome,d1039,1
+cytochrome-c oxidase deficiency,d1040,1
+mitochondrial diseases,d1041,1
+iron metabolism disorders,d1042,1
+hemochromatosis,d1043,1
+menkes kinky hair syndrome,d1044,1
+iron overload,d1045,1
+dyskinesias,d1046,1
+"sarcoma, clear cell",d1047,1
+rubinstein-taybi syndrome,d1048,1
+anorexia,d1049,1
+cushing syndrome,d1050,1
+"spasms, infantile",d1051,1
+malaria,d1052,1
+metabolic diseases,d1053,1
+myocarditis,d1054,1
+agranulocytosis,d1055,1
+"anemia, aplastic",d1056,1
+"leishmaniasis, visceral",d1057,1
+"neoplasm, residual",d1058,1
+sarcoma,d1059,1
+pancytopenia,d1060,1
+"cerebral amyloid angiopathy, familial",d1061,1
+graft vs host disease,d1062,1
+granulomatosis with polyangiitis,d1063,1
+adrenal gland neoplasms,d1064,1
+adrenocortical adenoma,d1065,1
+"adenoma, liver cell",d1066,1
+pilomatrixoma,d1067,1
+coronary disease,d1068,1
+hamartoma,d1069,1
+"pulmonary disease, chronic obstructive",d1070,1
+hydrophthalmos,d1071,1
+hepatitis c,d1072,1
+"adrenal hyperplasia, congenital",d1073,1
+amenorrhea,d1074,1
+glycogen storage disease type v,d1075,1
+meningococcal infections,d1076,1
+berylliosis,d1077,1
+"rhabdomyosarcoma, embryonal",d1078,1
+hereditary sensory and autonomic neuropathies,d1079,1
+immunologic deficiency syndromes,d1080,1
+delirium,d1081,1
+basal ganglia diseases,d1082,1
+language disorders,d1083,1
+movement disorders,d1084,1
+tobacco use disorder,d1085,1
+substance withdrawal syndrome,d1086,1
+subarachnoid hemorrhage,d1087,1
+erectile dysfunction,d1088,1
+"infarction, middle cerebral artery",d1089,1
+lewy body disease,d1090,1
+migraine disorders,d1091,1
+"sleep apnea, obstructive",d1092,1
+stomach ulcer,d1093,1
+"polycystic kidney, autosomal recessive",d1094,1
+gliosarcoma,d1095,1
+chloracne,d1096,1
+"aortic stenosis, supravalvular",d1097,1
+cutis laxa,d1098,1
+"hernia, diaphragmatic",d1099,1
+pulmonary emphysema,d1100,1
+"anemia, hemolytic",d1101,1
+beta-thalassemia,d1102,1
+fatigue,d1103,1
+neurodegenerative diseases,d1104,1
+arthrogryposis,d1105,1
+skin abnormalities,d1106,1
+bone diseases,d1107,1
+primary myelofibrosis,d1108,1
+"leukemia, myelomonocytic, chronic",d1109,1
+disseminated intravascular coagulation,d1110,1
+"sinus thrombosis, intracranial",d1111,1
+mesenteric ischemia,d1112,1
+hypoprothrombinemias,d1113,1
+venous thrombosis,d1114,1
+budd-chiari syndrome,d1115,1
+aortic rupture,d1116,1
+arachnodactyly,d1117,1
+ectopia lentis,d1118,1
+hyperinsulinism,d1119,1
+weill-marchesani syndrome,d1120,1
+anodontia,d1121,1
+acrocephalosyndactylia,d1122,1
+septo-optic dysplasia,d1123,1
+kallmann syndrome,d1124,1
+"keratosis, seborrheic",d1125,1
+plagiocephaly,d1126,1
+achondroplasia,d1127,1
+craniofacial dysostosis,d1128,1
+hydrocephalus,d1129,1
+antley-bixler syndrome phenotype,d1130,1
+keratoconus,d1131,1
+intestinal pseudo-obstruction,d1132,1
+periventricular nodular heterotopia,d1133,1
+congenital abnormalities,d1134,1
+primary ovarian insufficiency,d1135,1
+aortic valve insufficiency,d1136,1
+malformations of cortical development,d1137,1
+"anemia, hemolytic, congenital nonspherocytic",d1138,1
+favism,d1139,1
+"granulomatous disease, chronic",d1140,1
+eosinophilia,d1141,1
+"hernias, diaphragmatic, congenital",d1142,1
+"heart septal defects, atrial",d1143,1
+parkinsonian disorders,d1144,1
+neuromyelitis optica,d1145,1
+hallermann's syndrome,d1146,1
+erythrokeratodermia variabilis,d1147,1
+deafness,d1148,1
+ichthyosis,d1149,1
+"keratoderma, palmoplantar",d1150,1
+mucopolysaccharidosis iv,d1151,1
+"gangliosidosis, gm1",d1152,1
+ellis-van creveld syndrome,d1153,1
+pallister-hall syndrome,d1154,1
+syndactyly,d1155,1
+acrocallosal syndrome,d1156,1
+acromegaly,d1157,1
+"fibrous dysplasia, monostotic",d1158,1
+"fibrous dysplasia, polyostotic",d1159,1
+brachydactyly,d1160,1
+"dermatitis, atopic",d1161,1
+"lung diseases, obstructive",d1162,1
+tauopathies,d1163,1
+"amyloid neuropathies, familial",d1164,1
+asbestosis,d1165,1
+"glomerulonephritis, membranoproliferative",d1166,1
+vascular diseases,d1167,1
+anaplasia,d1168,1
+"carcinoma, intraductal, noninfiltrating",d1169,1
+lung diseases,d1170,1
+hemangioblastoma,d1171,1
+"cholangitis, sclerosing",d1172,1
+"hypoxia-ischemia, brain",d1173,1
+drug eruptions,d1174,1
+synovitis,d1175,1
+"hepatitis b, chronic",d1176,1
+sarcoidosis,d1177,1
+"asthma, aspirin-induced",d1178,1
+esophageal achalasia,d1179,1
+"pemphigoid, bullous",d1180,1
+kleine-levin syndrome,d1181,1
+pancreatitis,d1182,1
+typhoid fever,d1183,1
+eosinophilia-myalgia syndrome,d1184,1
+crest syndrome,d1185,1
+"scleroderma, diffuse",d1186,1
+neuralgia,d1187,1
+hepatorenal syndrome,d1188,1
+gastroparesis,d1189,1
+hemolysis,d1190,1
+"anemia, sickle cell",d1191,1
+hepatitis b,d1192,1
+"hepatitis c, chronic",d1193,1
+"nevus, sebaceous of jadassohn",d1194,1
+charcot-marie-tooth disease,d1195,1
+"spastic paraplegia, hereditary",d1196,1
+respiratory syncytial virus infections,d1197,1
+leukostasis,d1198,1
+enchondromatosis,d1199,1
+chondroma,d1200,1
+immunoblastic lymphadenopathy,d1201,1
+"influenza, human",d1202,1
+"thrombocythemia, essential",d1203,1
+viremia,d1204,1
+bronchiolitis obliterans,d1205,1
+chlamydia infections,d1206,1
+"leishmaniasis, cutaneous",d1207,1
+peritonitis,d1208,1
+respiratory tract diseases,d1209,1
+tuberous sclerosis,d1210,1
+chills,d1211,1
+"dermatitis, allergic contact",d1212,1
+"hepatitis, autoimmune",d1213,1
+"leishmaniasis, mucocutaneous",d1214,1
+job syndrome,d1215,1
+"bone diseases, metabolic",d1216,1
+silver-russell syndrome,d1217,1
+hypoglycemia,d1218,1
+anthracosis,d1219,1
+hyperemia,d1220,1
+muscular diseases,d1221,1
+peptic ulcer,d1222,1
+bronchial hyperreactivity,d1223,1
+schnitzler syndrome,d1224,1
+alopecia areata,d1225,1
+rhinitis,d1226,1
+respiratory sounds,d1227,1
+hemolytic-uremic syndrome,d1228,1
+"obstetric labor, premature",d1229,1
+"arthritis, psoriatic",d1230,1
+cachexia,d1231,1
+"esophagitis, peptic",d1232,1
+gastroesophageal reflux,d1233,1
+"hepatitis, alcoholic",d1234,1
+staphylococcal infections,d1235,1
+enterocolitis,d1236,1
+ileitis,d1237,1
+diabetic ketoacidosis,d1238,1
+edema,d1239,1
+glucose intolerance,d1240,1
+donohue syndrome,d1241,1
+skin ulcer,d1242,1
+pregnancy complications,d1243,1
+"leukemia, mast-cell",d1244,1
+urticaria pigmentosa,d1245,1
+piebaldism,d1246,1
+"mastocytoma, skin",d1247,1
+"mastocytosis, systemic",d1248,1
+thymus neoplasms,d1249,1
+uterine neoplasms,d1250,1
+"adenocarcinoma, follicular",d1251,1
+intracranial arteriovenous malformations,d1252,1
+aphasia,d1253,1
+epidermolysis bullosa,d1254,1
+"epidermolysis bullosa, junctional",d1255,1
+"renal insufficiency, chronic",d1256,1
+"diabetes, gestational",d1257,1
+pituitary diseases,d1258,1
+nephritis,d1259,1
+atrioventricular block,d1260,1
+heart block,d1261,1
+"tachycardia, ventricular",d1262,1
+arrhythmogenic right ventricular dysplasia,d1263,1
+"muscular dystrophies, limb-girdle",d1264,1
+"muscular dystrophy, emery-dreifuss",d1265,1
+hiv-associated lipodystrophy syndrome,d1266,1
+marfan syndrome,d1267,1
+holoprosencephaly,d1268,1
+loeys-dietz syndrome,d1269,1
+hepatic encephalopathy,d1270,1
+learning disorders,d1271,1
+primary progressive nonfluent aphasia,d1272,1
+microcephaly,d1273,1
+respiratory insufficiency,d1274,1
+glucagonoma,d1275,1
+"adenoma, islet cell",d1276,1
+nasal polyps,d1277,1
+"neoplasms, germ cell and embryonal",d1278,1
+"leukemia, lymphoid",d1279,1
+"leukemia, monocytic, acute",d1280,1
+"leukemia, myelomonocytic, acute",d1281,1
+de lange syndrome,d1282,1
+epidermolysis bullosa dystrophica,d1283,1
+bone neoplasms,d1284,1
+retinal diseases,d1285,1
+"angina, stable",d1286,1
+anencephaly,d1287,1
+clubfoot,d1288,1
+leukopenia,d1289,1
+meningomyelocele,d1290,1
+spinal cord diseases,d1291,1
+thyrotoxicosis,d1292,1
+spinal dysraphism,d1293,1
+malnutrition,d1294,1
+microvascular angina,d1295,1
+"depression, postpartum",d1296,1
+neuroectodermal tumors,d1297,1
+neurofibrosarcoma,d1298,1
+gastrointestinal diseases,d1299,1
+"pain insensitivity, congenital",d1300,1
+cystitis,d1301,1
+ureteral obstruction,d1302,1
+coronary vasospasm,d1303,1
+"hypertension, renovascular",d1304,1
+pulmonary edema,d1305,1
+ectodermal dysplasia,d1306,1
+"epilepsy, temporal lobe",d1307,1
+hajdu-cheney syndrome,d1308,1
+cerebrovascular disorders,d1309,1
+lymphomatoid papulosis,d1310,1
+morphine dependence,d1311,1
+nausea,d1312,1
+hypereosinophilic syndrome,d1313,1
+neonatal abstinence syndrome,d1314,1
+"pain, postoperative",d1315,1
+vomiting,d1316,1
+bronchiectasis,d1317,1
+"panniculitis, nodular nonsuppurative",d1318,1
+hemimegalencephaly,d1319,1
+coronary thrombosis,d1320,1
+intracranial hemorrhages,d1321,1
+leigh disease,d1322,1
+cerebral palsy,d1323,1
+hypernatremia,d1324,1
+"hypoadrenocorticism, familial",d1325,1
+hemorrhoids,d1326,1
+persian gulf syndrome,d1327,1
+"kidney tubular necrosis, acute",d1328,1
+"diabetes mellitus, lipoatrophic",d1329,1
+"polycystic kidney, autosomal dominant",d1330,1
+"lymphohistiocytosis, hemophagocytic",d1331,1
+myxoma,d1332,1
+carney complex,d1333,1
+"leukemia, hairy cell",d1334,1
+hypopituitarism,d1335,1
+growth hormone-secreting pituitary adenoma,d1336,1
+prostatic hyperplasia,d1337,1
+scrapie,d1338,1
+creutzfeldt-jakob syndrome,d1339,1
+pick disease of the brain,d1340,1
+"neuroectodermal tumors, primitive",d1341,1
+lipoma,d1342,1
+lipomatosis,d1343,1
+endometrial hyperplasia,d1344,1
+"hyperparathyroidism, secondary",d1345,1
+intestinal polyps,d1346,1
+"leukoplakia, oral",d1347,1
+bartter syndrome,d1348,1
+"hypertension, malignant",d1349,1
+liddle syndrome,d1350,1
+multiple endocrine neoplasia type 2b,d1351,1
+retinal dystrophies,d1352,1
+"optic atrophy, hereditary, leber",d1353,1
+"respiratory distress syndrome, adult",d1354,1
+"nephritis, interstitial",d1355,1
+chronic periodontitis,d1356,1
+carotid body tumor,d1357,1
+"paraganglioma, extra-adrenal",d1358,1
+schizencephaly,d1359,1
+ataxia,d1360,1
+"metabolism, inborn errors",d1361,1
+turner syndrome,d1362,1
+motor neuron disease,d1363,1
+"anemia, sideroblastic",d1364,1
+esophageal stenosis,d1365,1
+adrenoleukodystrophy,d1366,1
+"ophthalmoplegia, chronic progressive external",d1367,1
+farber lipogranulomatosis,d1368,1
+campomelic dysplasia,d1369,1
+kidney calculi,d1370,1
+"neoplasms, experimental",d1371,1
+pleural neoplasms,d1372,1
+"gonadal dysgenesis, mixed",d1373,1
+ovotesticular disorders of sex development,d1374,1
+"46, xx testicular disorders of sex development",d1375,1
+"gonadal dysgenesis, 46,xy",d1376,1
+esophageal and gastric varices,d1377,1
+vipoma,d1378,1
+"candidiasis, chronic mucocutaneous",d1379,1
+cytomegalovirus infections,d1380,1
+mycobacterium infections,d1381,1
+"leukemia, large granular lymphocytic",d1382,1
+pruritus,d1383,1
+double outlet right ventricle,d1384,1
+fuchs' endothelial dystrophy,d1385,1
+cri-du-chat syndrome,d1386,1
+dyskeratosis congenita,d1387,1
+"anemia, iron-deficiency",d1388,1
+camurati-engelmann syndrome,d1389,1
+penile induration,d1390,1
+"aneurysm, dissecting",d1391,1
+"arthritis, infectious",d1392,1
+"liver neoplasms, experimental",d1393,1
+"asthma, occupational",d1394,1
+hiv wasting syndrome,d1395,1
+gallbladder neoplasms,d1396,1
+keratosis,d1397,1
+"carcinoma, small cell",d1398,1
+urogenital neoplasms,d1399,1
+urologic neoplasms,d1400,1
+lymphangioleiomyomatosis,d1401,1
+carpal tunnel syndrome,d1402,1
+familial hypophosphatemic rickets,d1403,1
+"bronchitis, chronic",d1404,1
+"hypertension, portal",d1405,1
+retinal vein occlusion,d1406,1
+thrombotic microangiopathies,d1407,1
+"sarcoma, synovial",d1408,1
+"von willebrand disease, type 2",d1409,1
+frasier syndrome,d1410,1
+stomatitis,d1411,1
+erythema,d1412,1
+paraganglioma,d1413,1
+neuroaxonal dystrophies,d1414,1
+bladder exstrophy,d1415,1
+"foot deformities, congenital",d1416,1
+"hand deformities, congenital",d1417,1
+"limb deformities, congenital",d1418,1
+"jaundice, neonatal",d1419,1
+distal myopathies,d1420,1
+calcinosis,d1421,1
+sex cord-gonadal stromal tumors,d1422,1
+sertoli-leydig cell tumor,d1423,1
+giant cell arteritis,d1424,1
+spinocerebellar ataxias,d1425,1
+"anemia, refractory",d1426,1
+blast crisis,d1427,1
+hyper-igm immunodeficiency syndrome,d1428,1
+pseudohypoaldosteronism,d1429,1
+cryopyrin-associated periodic syndromes,d1430,1
+"vaginosis, bacterial",d1431,1
+systemic inflammatory response syndrome,d1432,1
+"enterocolitis, necrotizing",d1433,1
+hypersensitivity,d1434,1
+eczema,d1435,1
+"constriction, pathologic",d1436,1
+"epilepsy, tonic-clonic",d1437,1
+glycosuria,d1438,1
+disorders of excessive somnolence,d1439,1
+hypothyroidism,d1440,1
+myoclonus,d1441,1
+paresis,d1442,1
+proteinuria,d1443,1
+hypophosphatemia,d1444,1
+neurobehavioral manifestations,d1445,1
+"vasospasm, intracranial",d1446,1
+angina pectoris,d1447,1
+asthenia,d1448,1
+atrial flutter,d1449,1
+autonomic nervous system diseases,d1450,1
+central nervous system diseases,d1451,1
+constipation,d1452,1
+"hearing loss, bilateral",d1453,1
+"hearing loss, sensorineural",d1454,1
+hematologic diseases,d1455,1
+hyponatremia,d1456,1
+inappropriate adh syndrome,d1457,1
+paresthesia,d1458,1
+phlebitis,d1459,1
+polyneuropathies,d1460,1
+thromboembolism,d1461,1
+tinnitus,d1462,1
+neurotoxicity syndromes,d1463,1
+mucositis,d1464,1
+drug-related side effects and adverse reactions,d1465,1
+albuminuria,d1466,1
+"arrhythmias, cardiac",d1467,1
+bradycardia,d1468,1
+"disease models, animal",d1469,1
+dizziness,d1470,1
+headache,d1471,1
+heart arrest,d1472,1
+"hypertension, pulmonary",d1473,1
+"hypertension, renal",d1474,1
+hypotension,d1475,1
+"hypotension, orthostatic",d1476,1
+insulin resistance,d1477,1
+necrosis,d1478,1
+postoperative complications,d1479,1
+quadriplegia,d1480,1
+rhabdomyolysis,d1481,1
+sleep wake disorders,d1482,1
+tachycardia,d1483,1
+ventricular fibrillation,d1484,1
+reperfusion injury,d1485,1
+myocardial reperfusion injury,d1486,1
+weight loss,d1487,1
+"death, sudden, cardiac",d1488,1
+"vasculitis, leukocytoclastic, cutaneous",d1489,1
+"ventricular dysfunction, left",d1490,1
+ventricular dysfunction,d1491,1
+ventricular remodeling,d1492,1
+coronary stenosis,d1493,1
+drug overdose,d1494,1
+angioedema,d1495,1
+cough,d1496,1
+"glomerulosclerosis, focal segmental",d1497,1
+intestinal diseases,d1498,1
+"abnormalities, multiple",d1499,1
+"arthritis, experimental",d1500,1
+erythema multiforme,d1501,1
+"heart septal defects, ventricular",d1502,1
+hematuria,d1503,1
+back pain,d1504,1
+chorea,d1505,1
+diplopia,d1506,1
+"epilepsy, generalized",d1507,1
+"epilepsies, myoclonic",d1508,1
+"epilepsy, absence",d1509,1
+exanthema,d1510,1
+hallucinations,d1511,1
+hepatomegaly,d1512,1
+hyperkinesis,d1513,1
+sleep initiation and maintenance disorders,d1514,1
+jaundice,d1515,1
+lymphatic diseases,d1516,1
+"meningitis, aseptic",d1517,1
+multiple organ failure,d1518,1
+nerve degeneration,d1519,1
+"parkinson disease, secondary",d1520,1
+tremor,d1521,1
+coma,d1522,1
+confusion,d1523,1
+muscle rigidity,d1524,1
+"sexual dysfunction, physiological",d1525,1
+vision disorders,d1526,1
+"akathisia, drug-induced",d1527,1
+serotonin syndrome,d1528,1
+vertigo,d1529,1
+arterial occlusive diseases,d1530,1
+cerebral hemorrhage,d1531,1
+"ischemic attack, transient",d1532,1
+dyspnea,d1533,1
+hemorrhage,d1534,1
+hypesthesia,d1535,1
+intraoperative complications,d1536,1
+syncope,d1537,1
+anaphylaxis,d1538,1
+bone marrow diseases,d1539,1
+bundle-branch block,d1540,1
+chest pain,d1541,1
+deglutition disorders,d1542,1
+hyperbilirubinemia,d1543,1
+hyperkalemia,d1544,1
+pericardial effusion,d1545,1
+"shock, cardiogenic",d1546,1
+"tachycardia, supraventricular",d1547,1
+abdominal pain,d1548,1
+lethargy,d1549,1
+leukoencephalopathies,d1550,1
+acidosis,d1551,1
+"cholestasis, intrahepatic",d1552,1
+"diabetes mellitus, experimental",d1553,1
+hyperplasia,d1554,1
+"mammary neoplasms, experimental",d1555,1
+neoplasm invasiveness,d1556,1
+weight gain,d1557,1
+massive hepatic necrosis,d1558,1
+brain injuries,d1559,1
+"liver cirrhosis, experimental",d1560,1
+leukocytosis,d1561,1
+pharyngitis,d1562,1
+churg-strauss syndrome,d1563,1
+"abnormalities, drug-induced",d1564,1
+"anemia, hemolytic, autoimmune",d1565,1
+arteriosclerosis,d1566,1
+fetal diseases,d1567,1
+gastrointestinal hemorrhage,d1568,1
+prenatal exposure delayed effects,d1569,1
+"red-cell aplasia, pure",d1570,1
+"signs and symptoms, digestive",d1571,1
+polymyositis,d1572,1
+arthralgia,d1573,1
+muscle weakness,d1574,1
+bacterial infections,d1575,1
+"cell transformation, neoplastic",d1576,1
+"reflex, abnormal",d1577,1
+sialorrhea,d1578,1
+premature birth,d1579,1
+cerebellar ataxia,d1580,1
+conjunctivitis,d1581,1
+consciousness disorders,d1582,1
+flushing,d1583,1
+infection,d1584,1
+pleural effusion,d1585,1
+skin diseases,d1586,1
+speech disorders,d1587,1
+thrombophlebitis,d1588,1
+gait ataxia,d1589,1
+athetosis,d1590,1
+blepharoptosis,d1591,1
+catalepsy,d1592,1
+catatonia,d1593,1
+"dyskinesia, drug-induced",d1594,1
+hyperprolactinemia,d1595,1
+hypothermia,d1596,1
+"infant, newborn, diseases",d1597,1
+muscle hypertonia,d1598,1
+myoglobinuria,d1599,1
+neuroleptic malignant syndrome,d1600,1
+neurologic manifestations,d1601,1
+priapism,d1602,1
+pseudotumor cerebri,d1603,1
+psychomotor agitation,d1604,1
+restless legs syndrome,d1605,1
+somnambulism,d1606,1
+stuttering,d1607,1
+torticollis,d1608,1
+urinary incontinence,d1609,1
+urination disorders,d1610,1
+xerostomia,d1611,1
+urinary retention,d1612,1
+hypokinesia,d1613,1
+amphetamine-related disorders,d1614,1
+dystonic disorders,d1615,1
+dysphonia,d1616,1
+fetal growth retardation,d1617,1
+hypokalemia,d1618,1
+oral ulcer,d1619,1
+poisoning,d1620,1
+anuria,d1621,1
+brain edema,d1622,1
+granuloma,d1623,1
+ventricular premature complexes,d1624,1
+lung injury,d1625,1
+torsades de pointes,d1626,1
+nervous system malformations,d1627,1
+purpura,d1628,1
+stomach diseases,d1629,1
+intracranial hypertension,d1630,1
+"lung diseases, interstitial",d1631,1
+posterior leukoencephalopathy syndrome,d1632,1
+atrophy,d1633,1
+cholelithiasis,d1634,1
+"nystagmus, pathologic",d1635,1
+respiration disorders,d1636,1
+postoperative nausea and vomiting,d1637,1
+muscle cramp,d1638,1
+brain infarction,d1639,1
+cholangitis,d1640,1
+dysarthria,d1641,1
+photosensitivity disorders,d1642,1
+testicular diseases,d1643,1
+shock,d1644,1
+musculoskeletal diseases,d1645,1
+respiratory tract infections,d1646,1
+cataplexy,d1647,1
+galactorrhea,d1648,1
+hyperhidrosis,d1649,1
+"tachycardia, sinus",d1650,1
+hot flashes,d1651,1
+"acidosis, lactic",d1652,1
+bile duct diseases,d1653,1
+"death, sudden",d1654,1
+fetal death,d1655,1
+gastritis,d1656,1
+"infertility, female",d1657,1
+kidney papillary necrosis,d1658,1
+methemoglobinemia,d1659,1
+oliguria,d1660,1
+"purpura, schoenlein-henoch",d1661,1
+hyperammonemia,d1662,1
+azotemia,d1663,1
+apnea,d1664,1
+"infant, premature, diseases",d1665,1
+ocular hypertension,d1666,1
+papilledema,d1667,1
+paralysis,d1668,1
+taste disorders,d1669,1
+spasm,d1670,1
+bronchial spasm,d1671,1
+extravasation of diagnostic and therapeutic materials,d1672,1
+"sinus arrest, cardiac",d1673,1
+psychomotor disorders,d1674,1
+peripheral vascular diseases,d1675,1
+"diabetes insipidus, nephrogenic",d1676,1
+olfaction disorders,d1677,1
+ascites,d1678,1
+cerebellar diseases,d1679,1
+color vision defects,d1680,1
+eye diseases,d1681,1
+hyperthyroidism,d1682,1
+lipidoses,d1683,1
+muscular atrophy,d1684,1
+neuromuscular diseases,d1685,1
+ophthalmoplegia,d1686,1
+optic atrophy,d1687,1
+optic nerve diseases,d1688,1
+sick sinus syndrome,d1689,1
+sinoatrial block,d1690,1
+splenomegaly,d1691,1
+"gait disorders, neurologic",d1692,1
+photophobia,d1693,1
+"jaundice, obstructive",d1694,1
+enuresis,d1695,1
+ocular motility disorders,d1696,1
+miosis,d1697,1
+prenatal injuries,d1698,1
+stupor,d1699,1
+"encephalomyelitis, autoimmune, experimental",d1700,1
+pericarditis,d1701,1
+"brain diseases, metabolic",d1702,1
+gastroenteritis,d1703,1
+muscle hypotonia,d1704,1
+ulcer,d1705,1
+hiccup,d1706,1
+paraplegia,d1707,1
+low back pain,d1708,1
+gynecomastia,d1709,1
+hydronephrosis,d1710,1
+raynaud disease,d1711,1
+opioid-related disorders,d1712,1
+embryo loss,d1713,1
+polyarteritis nodosa,d1714,1
+"tachycardia, paroxysmal",d1715,1
+tic disorders,d1716,1
+"dermatitis, exfoliative",d1717,1
+muscle spasticity,d1718,1
+unconsciousness,d1719,1
+porphyria cutanea tarda,d1720,1
+urinary bladder diseases,d1721,1
+pyelonephritis,d1722,1
+"micronuclei, chromosome-defective",d1723,1
+"anemia, megaloblastic",d1724,1
+"lupus erythematosus, cutaneous",d1725,1
+erythema nodosum,d1726,1
+oligospermia,d1727,1
+reflex sympathetic dystrophy,d1728,1
+nocturnal enuresis,d1729,1
+sensation disorders,d1730,1
+mononeuropathies,d1731,1
+recurrence,d1732,1
+"cardiac output, low",d1733,1
+parotid neoplasms,d1734,1
+neurofibromatoses,d1735,1
+"neurofibroma, plexiform",d1736,1
+hydatidiform mole,d1737,1
+congenital hyperinsulinism,d1738,1
+trophoblastic neoplasms,d1739,1
+small cell lung carcinoma,d1740,1
+cleft lip,d1741,1
+plasmacytoma,d1742,1
+angelman syndrome,d1743,1
+klinefelter syndrome,d1744,1
+"carcinoma, ductal",d1745,1
+"purpura, thrombocytopenic",d1746,1
+pneumoconiosis,d1747,1
+"vitreoretinopathy, proliferative",d1748,1
+exfoliation syndrome,d1749,1
+"myositis, inclusion body",d1750,1
+glucose metabolism disorders,d1751,1
+breast cancer,d1752,1
+Triple Negative Breast Neoplasms,d1753,1

@@ -1,0 +1,36 @@
+{
+    "node.dat":
+    {
+        "0":"miRNA",
+        "1":"disease",
+        "2":"drug",
+        "3":"mRNA",
+        "4":"protein",
+        "5":"lncRNA",
+        "6":"microbe",
+        "7":"circRNA"
+    },
+    "link.dat":
+    {
+        "link type":
+        {
+            "0":{"start":"7", "end":"1", "meaning":"circRNA-disease"},
+            "1":{"start":"7", "end":"0", "meaning":"circRNA-miRNA"},
+            "2":{"start":"1", "end":"3", "meaning":"disease-mRNA"},
+            "3":{"start":"1", "end":"6", "meaning":"disease-microbe"},
+            "4":{"start":"2", "end":"1", "meaning":"drug-disease"},
+            "5":{"start":"2", "end":"6", "meaning":"drug-microbe"},
+            "6":{"start":"2", "end":"3", "meaning":"drug-mRNA"},
+            "7":{"start":"2", "end":"4", "meaning":"drug-protein"},
+            "8":{"start":"5", "end":"1", "meaning":"lncRNA-disease"},
+            "9":{"start":"5", "end":"0", "meaning":"lncRNA-miRNA"},
+            "10":{"start":"5", "end":"3", "meaning":"lncRNA-mRNA"},
+            "11":{"start":"5", "end":"4", "meaning":"lncRNA-protein"},
+            "12":{"start":"0", "end":"1", "meaning":"miRNA-disease"},
+            "13":{"start":"0", "end":"2", "meaning":"miRNA-drug"},
+            "14":{"start":"0", "end":"3", "meaning":"miRNA-mRNA"},
+            "15":{"start":"0", "end":"4", "meaning":"miRNA-protein"},
+            "16":{"start":"3", "end":"4", "meaning":"mRNA-protein"}
+        }
+    }
+}
