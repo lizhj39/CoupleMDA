@@ -13,10 +13,7 @@ This repository implements the heterogeneous graph link prediction model propose
 - matplotlib
 
 ## Datasets
-This experiment uses the standard dataset from Tsinghua University's HGB benchmark test https://github.com/THUDM/HGB.
-- DBLP (Modify from the node classification task dataset)
-- LastFM
-- Amazon
+This experiment uses the standard dataset from Zou's biological entity heterogeneous graph dataset https://github.com/zht-code/HGTMDA.
 
 Dataset structure:
 ```text
@@ -31,14 +28,10 @@ data/
 
 ### Training
 ```bash
-python run_DBLP.py --run-mode train
-python run_LastFM.py --run-mode train
-python run_amazon.py --run-mode train
+python run_Zou.py --run-mode train
 ```
 
 ### Evaluation
 ```bash
-python run_DBLP.py --run-mode test
-python run_LastFM.py --run-mode test
-python run_amazon.py --run-mode test
+python run_Zou.py --run-mode test
 ```
