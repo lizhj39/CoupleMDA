@@ -2,7 +2,7 @@
 
 This repository implements the heterogeneous graph link prediction model proposed in "CoupleMDA: Metapath-Induced Structural-Semantic Coupling Network for miRNA-Disease Association Prediction" (Under Review). The model introduces a novel relation-aware hierarchical attention mechanism for heterogeneous information fusion.
 
-![Model Architecture](fig1.jpg "模型结构图")
+![Model Architecture](model.jpg "模型结构图")
 
 ## Requirements
 - Python ≥ 3.8
